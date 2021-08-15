@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "The-underdogs"
+tagline:            "사수 없는 스타트업 마케터들을 위해"
+email:              "jsy1379@gmail.com"
+description:        "오늘도 맨땅에 헤딩중인 스타트업 및 소상공인 마케터들을 위해 쉬운말로 설명해주는 디지털마케팅&커리어 기록."
+author:             "장성윤"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://the-underdogs.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/blog_thumb_1200x628.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
