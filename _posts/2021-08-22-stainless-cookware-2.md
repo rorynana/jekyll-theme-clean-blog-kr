@@ -3,7 +3,7 @@ layout: post
 permalink: /stainless-cookware/
 title: '스테인레스 주방용품 시장의 현황 및 전망 (2)'
 date: 2021-08-22 19:03:00 +09:00
-feature: '/img/posts/04/main2.JPG'
+feature: '/img/posts/04/cookwearmain.jpg'
 categories:
   - cookware-1
 tags:
