@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /stainless-cookware/
-title: '스테인레스 주방용품 시장의 현황 및 전망'
+title: '스테인레스 주방용품 시장의 현황 및 전망 (1)'
 date: 2021-08-15 11:20:00 +09:00
 feature: '/img/posts/03/cookware_main.jpg'
 categories:
@@ -15,7 +15,7 @@ tags:
 description: '스테인레스 쿡웨어 시장의 전망.'
 ---
 
-## 국내 쿡 웨어 시장현황 및 전망
+## 국내 쿡 웨어 시장현황 및 전망 (1)
 #### 친환경 소재 쿡 웨어 사업진출을 선택한 이유.
 
 업계에 따르면 2019년도 국내 주방용품 시장은 약 2조원 대 규모로 추산된다.
