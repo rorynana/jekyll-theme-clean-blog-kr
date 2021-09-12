@@ -94,7 +94,8 @@
   <meta name="msapplication-TileImage" content="{{ "/img/icon/ms-icon-144x144.png" | relative_url }}">
   <meta name="theme-color" content="#ffffff">
   <!-- End Favicon Tag -->
-
+  
+  {% if page.feature %}
   <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -106,6 +107,6 @@
         "datePublished": "{{ page.date | date_to_xmlschema }}",
       }
       </script>
-
+      {% endif %}
 
 </head>
