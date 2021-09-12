@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://the-underdogs.kr//sitemap.xml
+
+#DaumWebMasterTool:65c9cdc8e9da4539f563a0136dcde6eb5cf0c3c46e081a50a34ddb2b2e857f9f:yW+jE+HZqfx5FHikzuVRfw==
