@@ -53,3 +53,11 @@ comments: true
   </article>
 
   {% include disqus.html %}
+
+  <script>
+    dataLayer.push({
+      'event': 'view_item',
+      'title':'{{ page.title }}',
+      'type': 'post'
+    });
+  </script>
