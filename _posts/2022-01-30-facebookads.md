@@ -3,7 +3,7 @@ layout: post
 permalink: /mkt-facebook/
 title: '페이스북 광고 알아보기'
 date: 2022-01-30 18:55:00 +09:00
-feature: '/img/posts/10/main.jpg'
+feature: '/img/posts/10/00.jpg'
 categories:
   - mkt-1
 tags:
