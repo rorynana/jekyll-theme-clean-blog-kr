@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /mkt-facebook/
+permalink: /mkt-getanewjob/
 title: '스타트업 마케터의 이직 과정 및 포트폴리오'
 date: 2022-03-06 15:38:00 +09:00
 feature: '/img/posts/11/main.png'
