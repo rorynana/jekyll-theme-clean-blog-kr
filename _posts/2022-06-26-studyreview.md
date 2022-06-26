@@ -3,7 +3,7 @@ layout: post
 permalink: /mkt-studyreview/
 title: '마개이너 스터디를 돌아보며'
 date: 2022-06-26 14:17:00 +09:00
-feature: '/img/posts/13/main.jpg'
+feature: '/img/posts/13/00.jpg'
 categories:
   - mkt-1
 tags:
