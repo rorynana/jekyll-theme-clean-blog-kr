@@ -3,7 +3,7 @@ layout: post
 permalink: /mkt-studyreview/
 title: '마개이너 스터디를 돌아보며'
 date: 2022-06-26 14:17:00 +09:00
-feature: '/img/posts/13/00.png'
+feature: '/img/posts/13/main.jpg'
 categories:
   - mkt-1
 tags:
@@ -19,7 +19,7 @@ description: '마개이너 스터디를 돌아보며'
 #### 나의 마케터 커리어는 마개이너 스터디 전과 후로 나뉘어진다.
 ##### 이제는 추억이 될 1년 5개월 간의 치열한 스터디
 
-내 블로그, 포트폴리오 및 자기소개서 등 모든 컨셉은 언더독 밀접한 관련이 있는 컨셉이다.
+내 블로그, 포트폴리오 및 자기소개서 등 모든 컨셉은 언더독과 밀접한 관련이 있는 컨셉이다.
 
 그도 그럴것이 사실 난 마케팅 비전공자이며, 지금까지의 커리어 가운데 한번도 사수가 있어본 적이 없었다.
 업무 스킬에 있어 약간의 자격지심이 있었고 늘 초조했다. 그래서 더 악착같이 살아 남기위해 노력 해왔다.
@@ -68,6 +68,6 @@ description: '마개이너 스터디를 돌아보며'
 
 1년 5개월 동안 치열한 과정을 함께 헤쳐나온 동료들과 아직 나누지 못한 주제가 많이 남아있고, 또 그들과 함께 공부하고 싶은 것들이 많기 때문에!! 얼마든지 함께 발전 할 수 있는 기회는 많을 거라 생각한다😁
 
-소중한 인연을 맺어주신 경석님께 다시금 감사의 인사를 전한다. 꾸벅 (--)(__)
+소중한 인연을 맺어주신 경석님께 다시금 감사의 인사를 전한다. 꾸벅 (- -)(_ _)
 
 <iframe src="https://giphy.com/embed/Mx1SAbRoPVjSCD1reZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HvA-hogeschool-hva-van-amsterdam-Mx1SAbRoPVjSCD1reZ">via GIPHY</a></p>
